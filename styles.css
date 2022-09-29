@@ -6,3 +6,10 @@ p {
 h1 {
  background-color: red;
 }
+
+.round {
+  background-color: grey;
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
