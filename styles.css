@@ -13,3 +13,8 @@ h1 {
   width: 200px;
   border-radius: 50%;
 }
+
+hr {
+  background-color: aqua;
+  height: 20px;
+}
